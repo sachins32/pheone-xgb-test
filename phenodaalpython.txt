@@ -1,0 +1,3 @@
+POST http://phenodaalpython.intel/predict
+Content-Type: application/json
+@data.json
